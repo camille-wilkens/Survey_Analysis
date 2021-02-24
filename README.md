@@ -38,27 +38,27 @@ Analysis:  Jupyter Notebook - Survey_Analysis.ipynb.  This notebook contains all
 ## Results<a name="results"></a>
 1) What percentage of the IT developers are LGBTQ+ vs Straight/Heterosexual? 
 
-8.1% are LGBTQIA and 91.9% are Straight/Heterosexual
+   8.1% are LGBTQIA and 91.9% are Straight/Heterosexual
 
 2) What percentage of the IT developers are LGBTQ+ vs Straight/Heterosexual? 
 
-United States, United Kingdom, Germany, India, Canada, Brazil, France, Australia, Netherlands, Spain
+   United States, United Kingdom, Germany, India, Canada, Brazil, France, Australia, Netherlands, Spain
 
 3) What is the mean salary difference between LGBTQ+ vs. Straight/Heterosexual IT developers across the Top 10 countries??
 
 
-|Country       	| Mean Salary Diff (USD)|	 
-|---------------|:---------------------:|
-|Spain	      	| -42.7%	        |
-|Brazil        	| -36.0%	        |
-|Canada        	| -25.9%	        |
-|United States 	| -19.4%		|
-|France        	| -18.2%	        |
-|United Kingdom | -13.7%	        |
-|Australia      | -8.6%	    	        |
-|Germany 	| -7.9%	                |
-|Netherlands    | +20.6%	        |
-|India        	| +40.1%	        |
+   |Country       	| Mean Salary Diff (USD)|	 
+   |--------------------|:---------------------:|
+   |Spain	      	| -42.7%	        |
+   |Brazil        	| -36.0%	        |
+   |Canada        	| -25.9%	        |
+   |United States 	| -19.4%		|
+   |France        	| -18.2%	        |
+   |United Kingdom      | -13.7%	        |
+   |Australia           | -8.6%	    	        |
+   |Germany 	        | -7.9%	                |
+   |Netherlands         | +20.6%	        |
+   |India        	| +40.1%	        |
 
 
 
