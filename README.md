@@ -26,7 +26,7 @@ This code was written using Python3 and listed below are the required packages:
 A data science demographic analysis of the 2020 Stack Overflow Survey results focusing on LGBTQ+ IT Developers around the world. The Stack Overflow's annual Developer Survey is the largest survey for IT developers around the world - in 2020, close to 65k people participated in this survey across 183 countries. This survey also captures the diversity of IT developers world-wide. Using the 2020 Stack Overflow survey results and applying data science methodologies, this study will provide insight into the current demographics of the LGBTQ+ IT Developer community by answering the following 3 questions:
 
 1) "What percentage of the IT developers are LGBTQ+ vs Straight/Heterosexual?"
-2) "What percentage of the IT developers are LGBTQ+ vs Straight/Heterosexual?"
+2) "What are the Top 10 countries for LGBTQ+ IT developers based on the survey population?"
 3) "What is the mean salary difference between LGBTQ+ vs. Straight/Heterosexual IT developers across the Top 10 countries?"
 
 ## File Descriptions <a name="files"></a>
@@ -40,7 +40,7 @@ Analysis:  Jupyter Notebook - Survey_Analysis.ipynb.  This notebook contains all
 
    8.1% are LGBTQIA and 91.9% are Straight/Heterosexual
 
-2) What percentage of the IT developers are LGBTQ+ vs Straight/Heterosexual? 
+2) "What are the Top 10 countries for LGBTQ+ IT developers based on the survey population?"
 
    United States, United Kingdom, Germany, India, Canada, Brazil, France, Australia, Netherlands, Spain
 
