@@ -40,18 +40,22 @@ Analysis:  Jupyter Notebook - Survey_Analysis.ipynb.  This notebook contains all
 
 2) What are the top 10 countries for LGBTQ+ Professional Developers? United States, United Kingdom, Germany, India, Canada, Brazil, France, Australia, Netherlands, Spain
 
-3) What is the mean salary difference between LGBTQ+ and Straight/Heterosexual Professional Developers by Top 10 Country       	| LGBTQ+ Mean Salary (USD) Difference
-----------------| -------------
-Spain	      	| -42.7%
-Brazil        	| -36.0%
-Canada        	| -25.9%
-United States 	| -19.4%
-France        	| -18.2%
-United Kingdom 	| -13.7%
-Australia       | -8.6%
-Germany 	| -7.9%
-Netherlands     | +20.6%
-India        	| +40.1%
+3) What is the mean salary difference between LGBTQ+ and Straight/Heterosexual Professional Developers by Top 10 Country?
+
+
+|Country       	| LGBTQ+ Mean Salary|	 
+|		| (USD) Difference  |
+|---------------|:-----------------:|
+|Spain	      	| -42.7%	    |
+|Brazil        	| -36.0%	    |
+|Canada        	| -25.9%	    |
+|United States 	| -19.4%	    |
+|France        	| -18.2%	    |
+|United Kingdom | -13.7%	    |
+|Australia      | -8.6%	    	    |
+|Germany 	| -7.9%	            |
+|Netherlands    | +20.6%	    |
+|India        	| +40.1%	    |
 
 
 
