@@ -2,7 +2,7 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
+3. [File Descriptions](#file)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -29,7 +29,7 @@ A data science demographic analysis of the 2020 Stack Overflow Survey results fo
 2) "What are the Top 10 countries for LGBTQ+ IT developers based on the survey population?"
 3) "What is the mean salary difference between LGBTQ+ vs. Straight/Heterosexual IT developers across the Top 10 countries?"
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="file"></a>
 
 Data: survey_results_public_2020.csv -- Data was downloaded from: https://insights.stackoverflow.com/survey
 
